@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:white
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+   margin-bottom: 10px;
+}
+form{
+    margin-left: 20px;
+}
+.form{
+    background-color: red;
+    width: 500px;
+    height: 300px;
+    border-radius: 4px;
+    font-family: 'calibri'; 
+    border: 2px solid rgb(242, 239, 239);
+    margin: auto;
+    margin-top: 100px;
+}
+div label{
+    width: 25%;
+    float:left;
+}
+
+.campos{
+    margin: auto;
+    display: block;
+    align-content: center;
+}
+.Boton{
+    width:70%;
+    margin: 5px;
+   margin: auto;
+   margin-top: 1px;
+   display: block;
+   align-content: center;
+  
+}
+
+table{
+    margin: 0 auto;
+    width: 50%;
+    border: solid 1px black;
+}
+th{
+    background-color: aqua;
+    border: solid 1px black;
+}
+
