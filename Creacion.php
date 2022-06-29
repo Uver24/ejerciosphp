@@ -9,7 +9,9 @@
     <title>Document</title>
 </head>
 <body>
-<div class="form">
+    <a href="./index.php">Pagina Pincipal</a>
+    <a href="./tabla.php">Mostrar Usuarios</a>
+    <div class="form">
         <h1>Formulario 2</h1>
         <form action="guardar.php" method="POST">
            <label >Identificacion:</label>

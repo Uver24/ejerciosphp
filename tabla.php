@@ -9,7 +9,9 @@
     <title>Document</title>
 </head>
 <body>
-<table>
+    <a href="./index.php">Pagina Pincipal</a>
+    <a href="./creacion.php">Crear Ususarios</a>
+    <table>
         <tr>
             <th>identificacion</th>
             <th>Nombre</th>
